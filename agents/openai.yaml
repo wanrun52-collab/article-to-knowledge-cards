@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片制作"
+  short_description: "把 Markdown 或纯文本整理成 5–8 张知识卡片"
+  default_prompt: "请将以下 Markdown 或纯文本整理成 5–8 张知识卡片："
